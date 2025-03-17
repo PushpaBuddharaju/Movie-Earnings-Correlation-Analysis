@@ -58,7 +58,7 @@ Dataset: [Movies.csv](https://www.kaggle.com/datasets/danielgrijalvas/movies) (D
 ❌ **Company name has little to no impact on revenue**  
 
 ## 📜 Code  
-Check out the full project code in the **Google Colab file** in this repository.  
+Check out the full project code in the [**Google Colab file**](https://github.com/PushpaBuddharaju/Movie-Earnings-Correlation-Analysis/blob/main/Correlation_project.ipynb) in this repository.  
 
 ## 🌍 Real-World Applications  
 This project can be useful in various domains:  
